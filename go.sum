@@ -1,3 +1,5 @@
+github.com/dramf/go-demo/hello v0.0.0-20210406061918-33ed577d36cb h1:UWMie7n/20QmZCwr5z/0uBH2Z9gdkisxd3H1KC2Xa5Q=
+github.com/dramf/go-demo/hello v0.0.0-20210406061918-33ed577d36cb/go.mod h1:AcHzN/dG7X/hvxR+iR7/Gxlth90o/0QWyKjALg/AQd8=
 golang.org/x/text v0.0.0-20170915032832-14c0d48ead0c/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
 golang.org/x/text v0.3.6 h1:aRYxNxv6iGQlyVaZmk6ZgYEDa+Jg18DxebPSrd6bg1M=
 golang.org/x/text v0.3.6/go.mod h1:5Zoc/QRtKVWzQhOtBMvqHzDpF6irO9z98xDceosuGiQ=
